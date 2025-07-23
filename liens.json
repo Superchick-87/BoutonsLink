@@ -1,0 +1,25 @@
+[
+    {
+        "titre": "Voir le calendrier complet",
+        "url": "https://infographie.sudouest.fr/Jeux-Olympiques-2024-Presentation/index.html",
+        "ref": [
+            "homepage",
+            "calendrier"
+        ]
+    },
+    {
+        "titre": "Voir tous les effectifs",
+        "url": "https://infographie.sudouest.fr/Rubgy-effectifs/index.html",
+        "ref": [
+            "effectifs-rugby"
+        ]
+    },
+    {
+        "titre": "Carte des médailles",
+        "url": "https://infographie.sudouest.fr/Jeux-Olympiques-2024-Medailles/",
+        "ref": [
+            "homepage",
+            "medailles"
+        ]
+    }
+]
