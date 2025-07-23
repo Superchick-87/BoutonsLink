@@ -5,21 +5,15 @@
         "ref": [
             "homepage",
             "calendrier"
-        ]
+        ],
+        "iframe": "<iframe src=”https://infographie.sudouest.fr/BoutonsLink/bouton.html“ border=”0” width=”100%” height=”120px”></iframe>"
     },
     {
         "titre": "Voir tous les effectifs",
         "url": "https://infographie.sudouest.fr/Rubgy-effectifs/index.html",
         "ref": [
             "effectifs-rugby"
-        ]
-    },
-    {
-        "titre": "Carte des médailles",
-        "url": "https://infographie.sudouest.fr/Jeux-Olympiques-2024-Medailles/",
-        "ref": [
-            "homepage",
-            "medailles"
-        ]
+        ],
+        "iframe": "<iframe src=”https://infographie.sudouest.fr/BoutonsLink/bouton.php?ref=effectifs-rugby“ border=”0” width=”100%” height=”120px”></iframe>"
     }
 ]
